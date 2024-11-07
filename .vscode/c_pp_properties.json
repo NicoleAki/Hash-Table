@@ -1,0 +1,49 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "c:/Users/NICOLE/Documents/GitHub/assignment-2-NicoleAki/**"
+            ],
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [
+                ""
+            ],
+            "compilerPathInCppPropertiesJson": "gcc",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "c:/Users/NICOLE/Documents/GitHub/assignment-2-NicoleAki/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "compilerPath": "\"C:\\MinGW\\bin\""
+        },
+        {
+            "name": "C:\\MinGW\\bin",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "gcc"
+        },
+        {
+            "name": "C:\\MinGW\\mingw32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "gcc"
+        }
+    ],
+    "version": 4
+}
