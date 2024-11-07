@@ -1,6 +1,3 @@
-# Assignment-2 Question 3 Coding Guidelines
-
-Your file should be names `HashTable.cpp` and your class should be named `HashTable`.
 
 You need to add these 4 functions in your public portion of your class HashTable. These 4 functions are:
 - `insert()`
