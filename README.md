@@ -5,11 +5,6 @@ You need to add these 4 functions in your public portion of your class HashTable
 - `search()`
 - `printTable()`
 
-You may define any other helper functions you need. The hash function you need to use is simply the key mod the size of your table. A sample `main.cpp` file is shared with you which will show how we will be running your code.
-
-_Note that the `main.cpp` provided to you in the repository is not the one which will be used to grade, this is just for your reference._
-
-(Tip: Do not forget to create a constructor for your class according to how the object is instantiated in the main.cpp)
 
 Assume all numbers entered into the table are non-negative numbers. The table should resize to **at least** twice of the previous size in case the threshold is crossed. The new size as mentioned should be a **prime number** as well.
 
